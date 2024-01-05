@@ -7,6 +7,8 @@ The Game is no longer available to be played online as Flash Player is dead, her
 2. Open Flash Standalone - inside the repo `flashplayer32` executables are present for Windows, Mac & Linux OS. Open the respective executable.
 3. Drag and Drop `curvefever-music-fix.swf` into the Flash window.
 
+![image](https://github.com/gameyoga/Curve-Fever-1/assets/645401/64c58de9-7b2d-4a3c-b3fe-35f83b89548a)
+
 **Note:**
   - curvefever-music-fix.swf was created using JPEXS Free Flash Decompiler so that it uses music from local directory instead of external server.
   - curvefever.swf is unmodified game file which was downloaded from the official website before it was removed.
