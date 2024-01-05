@@ -8,9 +8,9 @@ How to play Curve Fever 1 / Achtung Die Kurve in 2021 (with music)
 3. Drag and Drop `curvefever-music-fix.swf` into the Flash window.
 
 Note:
-curvefever-music-fix.swf was created using JPEXS Free Flash Decompiler so that it uses music from local directory instead of external server.
-curvefever.swf is unmodified game file which was downloaded from the official website before it was removed.
+  curvefever-music-fix.swf was created using JPEXS Free Flash Decompiler so that it uses music from local directory instead of external server.
+  curvefever.swf is unmodified game file which was downloaded from the official website before it was removed.
 
 Disclaimer:
-These game files were available thanks to reddit user - [ihcusk](https://www.reddit.com/user/ihcusk/).
-The Flash excutables were downloaded from [archive.org](https://archive.org/download/standaloneflashplayers/fp/fp_32/32.0.0.465/) as Adobe as retired Flash.
+  These game files were available thanks to reddit user - [ihcusk](https://www.reddit.com/user/ihcusk/).
+  The Flash excutables were downloaded from [archive.org](https://archive.org/download/standaloneflashplayers/fp/fp_32/32.0.0.465/) as Adobe has retired Flash.
