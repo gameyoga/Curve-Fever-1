@@ -11,4 +11,6 @@ Note:
 curvefever-music-fix.swf was created using JPEXS Free Flash Decompiler so that it uses music from local directory instead of external server.
 curvefever.swf is unmodified game file which was downloaded from the official website before it was removed inside.
 
-This files were available thanks to reddit user - `ihcusk`
+Disclaimer:
+These game files were available thanks to reddit user - [ihcusk](https://www.reddit.com/user/ihcusk/).
+The Flash excutables were downloaded from arhcives as Adobe as retired Flash.
